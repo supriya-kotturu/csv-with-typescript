@@ -1,0 +1,22 @@
+{
+  "name": "csv-with-typescript",
+  "version": "1.0.0",
+  "description": "Analysing a CSV file using typescript",
+  "main": "index.js",
+  "scripts": {
+    "start:build": "tsc -w",
+    "start:run": "nodemon ./build/index.js",
+    "start": "concurrently npm:start:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supriya-kotturu/csv-with-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supriya-kotturu/csv-with-typescript/issues"
+  },
+  "homepage": "https://github.com/supriya-kotturu/csv-with-typescript#readme"
+}
