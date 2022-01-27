@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/supriya-kotturu/csv-with-typescript/issues"
   },
-  "homepage": "https://github.com/supriya-kotturu/csv-with-typescript#readme"
+  "homepage": "https://github.com/supriya-kotturu/csv-with-typescript#readme",
+  "dependencies": {
+    "@types/node": "^17.0.10"
+  }
 }
